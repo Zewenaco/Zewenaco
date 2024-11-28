@@ -34,6 +34,21 @@ Anderson Gonzalez</a></h1>
 - 👨🏻‍💻 My next steps include participating in open-source projects, If you have one that I can contribute, please contact ME!
 
 <hr>
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,kotlin,go,py,ts,cs,spring,hibernate,express,nodejs,npm,graphql,postgres,mongodb,mysql,redis,kafka,gradle,maven,git,bitbucket,gitlab,github,nginx,docker,kubernetes,gcp,aws,grafana,prometheus,jenkins,html,css,figma,linux,md,postman,tailwind,idea,vscode,obsidian&perline=14" />
+  </a>
+</p>
+
+
+<hr>
 <!--icons and links-->
 <h3 align="center" > Connect With Me🤝s </h3>
 <p align="center">
