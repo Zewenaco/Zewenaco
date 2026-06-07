@@ -10,28 +10,28 @@ Anderson Gonzalez</a></h1>
 
 - 😄 Pronouns: He/Him or TeamPlayer 😉
 
-- 🔭 I’m currently working in <a href="https://capitole-consulting.com/es/" target="blank">Capitole Consulting</a> for Inditex, as my former client
+- 🔭 I’m currently working in <a href="https://www.caravelo.com/" target="blank">Caravelo</a>
 
-- 🌱 I’m currently Working on Microservices components with Spring boot authorization server, Java 21, MongoDB, Kafka, Maven, DDD oriented, Hexagonal Architecture; OpenAPI definitions; gRPC and REST as communication protocols; Avro schemas for events; AWS; Kubernetes; Prometheus; Grafana & Dynatrace
+- 🌱 I’m currently Working on a layered architecture with certain components distributed (BFF, Gateways, orkes) but the core is a modulith with spring boot modultih, Java 21, Couchbase, Killbill, Keycloak, Maven, Hexagonal Architecture; OpenAPI definitions; REST as communication protocols; AWS; Datadog
 
-- 🤝 I’m currently evaluating new opportunities as a full-time contract.
+- 🤝 I’m always open to hear proposals but not neessarily going to accept them.
 
 - 🌱 I’m currently learning/improving:
-    - Solving-problem skills studying at <a src="https://www.educative.io/path/ace-java-coding-interview" alt="ace-java-coding-interview"> educative.io </a>
-    - Practicing my sql skills with <a src="https://github.com/DataWithDanny/sql-masterclass" alt="sql-masterclass"> sql-masterclass </a>
+    - Studying anthropic courses to get the certification <a src="[https://www.educative.io/path/ace-java-coding-interview](https://anthropic.skilljar.com/)" alt="antrhopic.skilljar.com"> anthropic.skilljar.com </a>
+    - Working in a personal project right now <a src="https://waraflow.com" alt="waraflow"> waraflow </a>
     - Sharping my devops knowledge at <a src="https://www.educative.io/path/devops-for-developers" alt="devops-for-developers"> educative.io </a>
 
-- 📝 I regularly write articles on [medium](https://medium.com/@andervila), but I'll start soon also in dev.to
+- 📝 I regularly write articles on [medium](https://medium.com/@andervila), and I created a blog too [avila-labs.dev](https://avila-labs.dev)
 
 - 💬 Ask me about **Java, Spring Boot or Hexagonal Architecture**
 
-- 📫 How to reach me **andervila@gmail.com**
+- 📫 How to reach me **andervila@gmail.com** or [avila-labs.dev](https://avila-labs.dev)
 
 - 📄 Know about my experiences <a href="https://github.com/Zewenaco/Me.io/blob/main/resume_2025.pdf" target="blank">Resume</a>
 
 - ⚡ Fun fact: I love to rock climb 🧗🏽‍♂️ & dance salsa 🕺🏽
 
-- 👨🏻‍💻 My next steps include participating in open-source projects, If you have one that I can contribute, please contact ME!
+- 👨🏻‍💻 My next steps include get new certifications and get clients for my personal project
 
 <hr>
 <!--h1 without bottom border-->
